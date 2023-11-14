@@ -14,6 +14,6 @@ let lists = [
   {
     question: "introduce yourself",
     answer:
-      "my name is Anita, I am a Java Script program created by Zino to make things easier for developers and all humanity.",
+      "my name is Anita, I am a Java Script program created by Engineer Feisal to make things easier for developers and all humanity.",
   },
 ];
